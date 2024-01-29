@@ -4,4 +4,4 @@
 
 ##### The function returns the sorted arr. Bubble Sort is easy to understand but generally less efficient than more advanced sorting algorithms for large datasets.
 
-#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Hamming-algo/).
+#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Bubble-Sort/).
